@@ -7,13 +7,13 @@
 
 🔬 Turning Data into Insights | Predicting Tomorrow 📈 | Solving Real-World Problems 💡
 
-🧠 Python, R, SQL | Data Visualization 📉 | Model Building 🧱
+🧠 Python, SQL | Data Visualization 📉 | Model Building 🧱
 
-📊 Data-Driven Decision Maker | Statistics Nerd 📈 | A/B Testing Enthusiast 📝
+📊 Data-Driven Decision Maker | Statistics Nerd 📈 
 
 🤖 Machine Learning Enthusiast | AI Advocate 🤖 | Deep Learning Explorer 🌌
 
-🛠️ Tools: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Tableau
+🛠️ Tools: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
 
 🌍 On a mission to make the world a smarter, data-driven place 🌐
 
