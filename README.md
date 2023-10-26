@@ -1,5 +1,5 @@
-### Hi, there 👋
-## I am Sharmila Korada
+## Hi, there 👋
+### I am Sharmila Korada
 
 👋 Aspiring Data Scientist 📊 | Machine Learning Enthusiast 🤖 | Data Wizard 🧙‍♂️
 
@@ -21,4 +21,7 @@
 
 Connect with me and let's chat about data, analytics, and all things AI! 📩
 
-#DataScience #MachineLearning #AI #Analytics #Python #Statistics #DataNerd
+### You can find me on: 🔗 
+[LinkedIn](https://www.linkedin.com/in/sharmila-korada-802803241/) - [Email](sharmilakorada23@gmail.com) 
+
+#DataScience #MachineLearning #AI #Analytics #Python #Statistics 
