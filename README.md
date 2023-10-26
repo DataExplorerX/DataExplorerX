@@ -22,6 +22,6 @@
 Connect with me and let's chat about data, analytics, and all things AI! 📩
 
 ### You can find me on:
-#### [LinkedIn](https://www.linkedin.com/in/sharmila-korada-802803241/) - [Email](sharmilakorada23@gmail.com) 
+#### [LinkedIn](https://www.linkedin.com/in/sharmila-korada-802803241/) - [Email](mailto:sharmilakorada23@gmail.com) 
 
 #DataScience #MachineLearning #AI #Analytics #Python #Statistics 
