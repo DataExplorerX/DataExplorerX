@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, there 👋
+## I am Sharmila Korada
 
-<!--
-**DataExplorerX/DataExplorerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Aspiring Data Scientist 📊 | Machine Learning Enthusiast 🤖 | Data Wizard 🧙‍♂️
 
-Here are some ideas to get you started:
+📚 Constantly Curious | Lifelong Learner 🌱 | Data Explorer 🔍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Turning Data into Insights | Predicting Tomorrow 📈 | Solving Real-World Problems 💡
+
+🧠 Python, R, SQL | Data Visualization 📉 | Model Building 🧱
+
+📊 Data-Driven Decision Maker | Statistics Nerd 📈 | A/B Testing Enthusiast 📝
+
+🤖 Machine Learning Enthusiast | AI Advocate 🤖 | Deep Learning Explorer 🌌
+
+🛠️ Tools: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Tableau
+
+🌍 On a mission to make the world a smarter, data-driven place 🌐
+
+📈 Let's crunch numbers and unlock insights together! 💬
+
+Connect with me and let's chat about data, analytics, and all things AI! 📩
+
+#DataScience #MachineLearning #AI #Analytics #Python #Statistics #DataNerd
